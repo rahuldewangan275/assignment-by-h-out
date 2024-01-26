@@ -1,0 +1,5 @@
+When I submit a manuscript, I'm supposed to include a wordcount
+. I understand that this is not simply the number of words in the document (as
+ calculated by Word or Google Docs wordcount tools), but something else.
+I've found different and contradictory explanations of how to calcu
+late this. What's the right way?
